@@ -2,8 +2,8 @@
 Profile Views
 
 💻 Full-Stack Software Engineer
-📞 Phone: 055-677-3861
-📧 Email: chedva0556773861@gmail.com
+📞 Phone: 0583255128
+📧 Email: michal.tech111@gmail.com
 
 LinkedIn GitHub
 🔧 Skills and Expertise
