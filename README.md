@@ -70,8 +70,12 @@ Developed a project for managing an educational institution using **Java Spring 
 ---
 
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michal55128&layout=compact&theme=radical)
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal55128&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michal55128&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=michal55128&theme=radical)
+[![Michal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michal55128&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Michal's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=michal55128&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![snake gif](https://github.com/michal55128/michal55128/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
