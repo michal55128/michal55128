@@ -31,7 +31,7 @@ I am a dedicated and enthusiastic Full-Stack and Embedded Developer with a stron
 ---
 
 ### 🚀 Practicum & Professional Experience
-**Diversity Tech Practicum**:  
+**DiversiTech Practicum**:  
 Developed a project for managing an educational institution using **Java Spring Boot** with microservices for the backend and **Angular** for the frontend, utilizing Agile methodology. Deployed the project on **Render**.
 
 
