@@ -23,7 +23,7 @@
 **Languages**: Hebrew (native), English (high level)
 
 ---
-
+--- 
 ### 🌟 About Me
 I am a dedicated and enthusiastic Full-Stack and Embedded Developer with a strong work ethic and motivation to succeed in any field. I thrive in fast-paced environments, and I am passionate about solving complex problems with creativity and precision. I possess excellent interpersonal communication skills, outstanding organizational abilities, and a unique talent for problem-solving. I am always eager to learn new technologies and methodologies to stay ahead in the tech industry.
 ---
