@@ -37,11 +37,6 @@ Developed a project for managing an educational institution using **Java Spring 
 
 ---
 
-### 📈 GitHub Stats
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal55128&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michal55128&layout=compact&theme=radical)
-
-
 ---
 
 Thank you for visiting my GitHub profile! Feel free to reach out to me through the contact details above.
