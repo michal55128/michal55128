@@ -26,56 +26,18 @@
 
 ### 🌟 About Me
 I am a dedicated and enthusiastic Full-Stack and Embedded Developer with a strong work ethic and motivation to succeed in any field. I thrive in fast-paced environments, and I am passionate about solving complex problems with creativity and precision. I possess excellent interpersonal communication skills, outstanding organizational abilities, and a unique talent for problem-solving. I am always eager to learn new technologies and methodologies to stay ahead in the tech industry.
-
----
-
-### 🎓 Education
-**2022-2024**:  
-Double-degree engineer certified by "Mahat."  
-Studies for a software engineering degree at "Ladaat Hachachma" Seminar in El'ad, specializing in Full Stack and Embedded programs.  
-Completed the Ultra-Code program by Kamatech: a software engineering training program for a diploma engineering degree certified by Tech.
-
-**2018-2022**:  
-High school studies with a full matriculation certificate (with distinction). Completed accounting studies 1,2 and a final project (5 units). Matriculation certificates in accounting, management, and economics (5 units).
-
 ---
 
 ### 🚀 Practicum & Professional Experience
 **Diversity Tech Practicum**:  
 Developed a project for managing an educational institution using **Java Spring Boot** with microservices for the backend and **Angular** for the frontend, utilizing Agile methodology. Deployed the project on **Render**.
 
----
-
-### 💻 Professional Projects
-- **C#, React, SQL Server Project**:  
-  Developed a comprehensive "Therapists" website featuring therapist listings, user comments, and a personal messaging area. Integrated Gmail for direct website emailing. Managed server-side data analysis and processing using C#.  
-  **Client-side**: React  
-  **Database**: SQL Server with Entity Framework. Focused on performance and security through complex queries and independent problem-solving.
-
-- **Angular, Node.js, MongoDB Project**:  
-  Developed a full-stack application with a **Node.js** server and **Angular** client, connected to a **MongoDB** database. Utilized **Express** for efficient server management.
-
-- **Python, React Project**:  
-  Currently developing an innovative project using the latest tools and technologies in **Python** and **React**.
-
-- **Python Multi-User Chat Application**:  
-  Developed a multi-user chat application with room-based chats, allowing users to communicate within specific rooms seamlessly.
-
-- **Advanced JavaScript, HTML Project**:  
-  Created an "Escape Room" game using advanced JavaScript concepts such as objects, functions, JSON, and DOM manipulation.
-
-- **HTML and CSS Project**:  
-  Built a responsive static website using **HTML5** and **CSS3**, incorporating animations, transforms, flex, and grid layouts. Emphasized accessibility and effective selector usage.
 
 ---
 
 ### 📈 GitHub Stats
 ![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal55128&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michal55128&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=michal55128&theme=radical)
-[![Michal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=michal55128&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Michal's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=michal55128&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![snake gif](https://github.com/michal55128/michal55128/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
