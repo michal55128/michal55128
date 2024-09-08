@@ -4,7 +4,7 @@
 ## 💻 Software Developer
 📞 **Phone**: +972 58-325-5128  
 📧 **Email**: michal.tech111@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/michal-ben-abu/1) | [GitHub](https://[github.com/michal-ben-abu/1](https://github.com/michal55128/michal55128))
+🌐 [LinkedIn](https://www.linkedin.com/in/michal-ben-abu1/) | [GitHub](https://github.com/michal55128)
 
 ---
 
@@ -24,7 +24,7 @@ I am a passionate and enthusiastic Full-Stack Developer with hands-on experience
 ---
 
 ### 🚀 Internship & Practical Experience
-**Diversity Tech Practicum**:  
+**DiversitiTech Practicum**:  
 Worked on advanced projects using cutting-edge technologies, collaborated with a team, and developed solutions with Angular, Node.js, and SQL Server.  
 - Developed full-stack web applications.  
 - Managed tasks using version control (GitHub).  
