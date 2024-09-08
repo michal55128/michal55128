@@ -9,41 +9,70 @@
 ---
 
 ### 🔧 Skills and Expertise
-**Languages**: TypeScript, JavaScript, HTML, CSS, SCSS  
-**Frameworks**: Angular, Node.js  
+**Programming Languages**: Python, Java, C, C++, C#, Assembler  
+**Web Development**: HTML5, CSS3, JavaScript, Node.js, XML, TypeScript, React, Angular13/17, ES6, Sass  
+**Technologies**: React, Angular, .NET Core, Web API, Entity Framework, WinForms  
 **Databases**: SQL Server, MongoDB, MySQL  
-**Development Environments**: VS Code, IntelliJ  
-**Tools**: Git, GitHub, Docker, AWS  
-**Courses**: Mathematics, Data Structures, Algorithms, Operating Systems, Systems Analysis, Communication and Networks
+**Libraries**: Bootstrap, MUI, PrimeReact, Google Maps  
+**Development Environments**: VS Code, Visual Studio, PyCharm, IntelliJ IDEA, NetBeans  
+**Operating Systems**: Windows, Linux  
+**Tools**: GitHub, Docker, AWS, Render, Git  
+**Mathematics**: Boolean and linear algebra, differential calculus, statistics, probability, sequences, logic  
+**Additional Courses**: Data Structures, Algorithms, Graphs  
+**Extended Studies**: Operating systems, communication and networks, information systems analysis, digital systems, technical and spoken English  
+**Languages**: Hebrew (native), English (high level)
 
 ---
 
 ### 🌟 About Me
-I am a passionate and enthusiastic Full-Stack Developer with hands-on experience in modern technologies, always eager to learn and grow. I thrive in both team-oriented and independent environments, and I am dedicated to delivering high-quality and efficient solutions. I enjoy solving complex problems, with a strong work ethic and commitment to my goals.
+I am a dedicated and enthusiastic Full-Stack and Embedded Developer with a strong work ethic and motivation to succeed in any field. I thrive in fast-paced environments, and I am passionate about solving complex problems with creativity and precision. I possess excellent interpersonal communication skills, outstanding organizational abilities, and a unique talent for problem-solving. I am always eager to learn new technologies and methodologies to stay ahead in the tech industry.
 
 ---
 
-### 🚀 Internship & Practical Experience
-**DiversitiTech Practicum**:  
-Worked on advanced projects using cutting-edge technologies, collaborated with a team, and developed solutions with Angular, Node.js, and SQL Server.  
-- Developed full-stack web applications.  
-- Managed tasks using version control (GitHub).  
-- Worked on innovative projects contributing to technological advancement.
+### 🎓 Education
+**2022-2024**:  
+Double-degree engineer certified by "Mahat."  
+Studies for a software engineering degree at "Ladaat Hachachma" Seminar in El'ad, specializing in Full Stack and Embedded programs.  
+Completed the Ultra-Code program by Kamatech: a software engineering training program for a diploma engineering degree certified by Tech.
+
+**2018-2022**:  
+High school studies with a full matriculation certificate (with distinction). Completed accounting studies 1,2 and a final project (5 units). Matriculation certificates in accounting, management, and economics (5 units).
 
 ---
 
-### 📚 Education
-**2023**: Completed Practicum at Diversity Tech  
-**2022-2024**: Professional studies in software development  
+### 🚀 Practicum & Professional Experience
+**Diversity Tech Practicum**:  
+Developed a project for managing an educational institution using **Java Spring Boot** with microservices for the backend and **Angular** for the frontend, utilizing Agile methodology. Deployed the project on **Render**.
+
+---
+
+### 💻 Professional Projects
+- **C#, React, SQL Server Project**:  
+  Developed a comprehensive "Therapists" website featuring therapist listings, user comments, and a personal messaging area. Integrated Gmail for direct website emailing. Managed server-side data analysis and processing using C#.  
+  **Client-side**: React  
+  **Database**: SQL Server with Entity Framework. Focused on performance and security through complex queries and independent problem-solving.
+
+- **Angular, Node.js, MongoDB Project**:  
+  Developed a full-stack application with a **Node.js** server and **Angular** client, connected to a **MongoDB** database. Utilized **Express** for efficient server management.
+
+- **Python, React Project**:  
+  Currently developing an innovative project using the latest tools and technologies in **Python** and **React**.
+
+- **Python Multi-User Chat Application**:  
+  Developed a multi-user chat application with room-based chats, allowing users to communicate within specific rooms seamlessly.
+
+- **Advanced JavaScript, HTML Project**:  
+  Created an "Escape Room" game using advanced JavaScript concepts such as objects, functions, JSON, and DOM manipulation.
+
+- **HTML and CSS Project**:  
+  Built a responsive static website using **HTML5** and **CSS3**, incorporating animations, transforms, flex, and grid layouts. Emphasized accessibility and effective selector usage.
 
 ---
 
 ### 📈 GitHub Stats
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-ben-abu&show_icons=true&theme=radical)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michal-ben-abu&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michal-ben-abu&layout=compact&theme=radical)
 
 ---
 
 Thank you for visiting my GitHub profile! Feel free to reach out to me through the contact details above.
-
-
