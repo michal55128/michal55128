@@ -4,7 +4,7 @@
 ## 💻 Software Developer
 📞 **Phone**: +972 58-325-5128  
 📧 **Email**: michal.tech111@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/michal-ben-abu) | [GitHub](https://github.com/michal-ben-abu)
+🌐 [LinkedIn](https://www.linkedin.com/in/michal-ben-abu/1) | [GitHub](https://[github.com/michal-ben-abu/1](https://github.com/michal55128/michal55128))
 
 ---
 
