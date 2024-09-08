@@ -1,4 +1,4 @@
--- 👋 Hello, I'm michal ben abu
+ 👋 Hello, I'm michal ben abu
 Profile Views
 
 💻 Software Engineer
