@@ -2,7 +2,7 @@
 <!-- Profile Views (Optional: Add a profile views badge here if desired) -->
 
 ## 💻 Software Developer
-📞 **Phone**: +972 58-325-5128  
+📞 [**WhatsApp**](https://wa.me/972583255128)  
 📧 **Email**: michal.tech111@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/michal-ben-abu1/) | [GitHub](https://github.com/michal55128)
 
